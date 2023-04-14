@@ -1,0 +1,4 @@
+1.12版本开始，烧录工具默认可以更新工厂区及用户区，如不允许更新工厂区和用户区，需要工程师手动修改productline_cfg.xml。
+步骤如下：
+1.<burnappota_only>1</burnappota_only>修改为<burnappota_only>0</burnappota_only>
+2.打开工具进行工厂区和用户区配置

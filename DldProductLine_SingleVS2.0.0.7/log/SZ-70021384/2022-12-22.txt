@@ -1,0 +1,1174 @@
+10:11:06   ------------------START TO BURN---------------------- 
+10:11:06   needn't update factory sector  
+10:11:06   WAIT FOR CHIP POWER ON
+
+10:11:06   ------------------START TO BURN---------------------- 
+10:11:06   needn't update factory sector  
+10:11:06   WAIT FOR CHIP POWER ON
+
+10:11:09   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:09   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:09   ------------------START TO BURN---------------------- 
+10:11:09   needn't update factory sector  
+10:11:09   WAIT FOR CHIP POWER ON
+
+10:11:09   ------------------START TO BURN---------------------- 
+10:11:09   needn't update factory sector  
+10:11:09   WAIT FOR CHIP POWER ON
+
+10:11:12   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:12   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:12   ------------------START TO BURN---------------------- 
+10:11:12   needn't update factory sector  
+10:11:12   WAIT FOR CHIP POWER ON
+
+10:11:12   ------------------START TO BURN---------------------- 
+10:11:12   needn't update factory sector  
+10:11:12   WAIT FOR CHIP POWER ON
+
+10:11:14   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:14   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:15   ------------------START TO BURN---------------------- 
+10:11:15   needn't update factory sector  
+10:11:15   WAIT FOR CHIP POWER ON
+
+10:11:15   ------------------START TO BURN---------------------- 
+10:11:15   needn't update factory sector  
+10:11:15   WAIT FOR CHIP POWER ON
+
+10:11:17   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:17   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:17   ------------------START TO BURN---------------------- 
+10:11:17   needn't update factory sector  
+10:11:17   WAIT FOR CHIP POWER ON
+
+10:11:17   ------------------START TO BURN---------------------- 
+10:11:17   needn't update factory sector  
+10:11:17   WAIT FOR CHIP POWER ON
+
+10:11:20   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:20   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:20   ------------------START TO BURN---------------------- 
+10:11:20   needn't update factory sector  
+10:11:20   WAIT FOR CHIP POWER ON
+
+10:11:20   ------------------START TO BURN---------------------- 
+10:11:20   needn't update factory sector  
+10:11:20   WAIT FOR CHIP POWER ON
+
+10:11:22   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:23   ------------------START TO BURN---------------------- 
+10:11:23   needn't update factory sector  
+10:11:23   WAIT FOR CHIP POWER ON
+
+10:11:23   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:23   ------------------START TO BURN---------------------- 
+10:11:23   needn't update factory sector  
+10:11:23   WAIT FOR CHIP POWER ON
+
+10:11:25   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:25   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:25   ------------------START TO BURN---------------------- 
+10:11:25   needn't update factory sector  
+10:11:25   WAIT FOR CHIP POWER ON
+
+10:11:25   ------------------START TO BURN---------------------- 
+10:11:25   needn't update factory sector  
+10:11:25   WAIT FOR CHIP POWER ON
+
+10:11:28   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:28   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:28   ------------------START TO BURN---------------------- 
+10:11:28   needn't update factory sector  
+10:11:28   WAIT FOR CHIP POWER ON
+
+10:11:28   ------------------START TO BURN---------------------- 
+10:11:28   needn't update factory sector  
+10:11:28   WAIT FOR CHIP POWER ON
+
+10:11:31   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:31   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:31   ------------------START TO BURN---------------------- 
+10:11:31   needn't update factory sector  
+10:11:31   WAIT FOR CHIP POWER ON
+
+10:11:31   ------------------START TO BURN---------------------- 
+10:11:31   needn't update factory sector  
+10:11:31   WAIT FOR CHIP POWER ON
+
+10:11:33   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:33   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:33   ------------------START TO BURN---------------------- 
+10:11:33   needn't update factory sector  
+10:11:33   WAIT FOR CHIP POWER ON
+
+10:11:33   ------------------START TO BURN---------------------- 
+10:11:33   needn't update factory sector  
+10:11:33   WAIT FOR CHIP POWER ON
+
+10:11:36   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:36   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:36   ------------------START TO BURN---------------------- 
+10:11:36   needn't update factory sector  
+10:11:36   WAIT FOR CHIP POWER ON
+
+10:11:36   ------------------START TO BURN---------------------- 
+10:11:36   needn't update factory sector  
+10:11:36   WAIT FOR CHIP POWER ON
+
+10:11:39   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:39   ------------------START TO BURN---------------------- 
+10:11:39   needn't update factory sector  
+10:11:39   WAIT FOR CHIP POWER ON
+
+10:11:41   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:41   ------------------START TO BURN---------------------- 
+10:11:41   needn't update factory sector  
+10:11:41   WAIT FOR CHIP POWER ON
+
+10:11:41   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:42   ------------------START TO BURN---------------------- 
+10:11:42   needn't update factory sector  
+10:11:42   WAIT FOR CHIP POWER ON
+
+10:11:44   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:44   ------------------START TO BURN---------------------- 
+10:11:44   needn't update factory sector  
+10:11:44   WAIT FOR CHIP POWER ON
+
+10:11:44   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:44   ------------------START TO BURN---------------------- 
+10:11:44   needn't update factory sector  
+10:11:44   WAIT FOR CHIP POWER ON
+
+10:11:46   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:46   ------------------START TO BURN---------------------- 
+10:11:46   needn't update factory sector  
+10:11:46   WAIT FOR CHIP POWER ON
+
+10:11:47   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:47   ------------------START TO BURN---------------------- 
+10:11:47   needn't update factory sector  
+10:11:47   WAIT FOR CHIP POWER ON
+
+10:11:49   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:49   ------------------START TO BURN---------------------- 
+10:11:49   needn't update factory sector  
+10:11:49   WAIT FOR CHIP POWER ON
+
+10:11:49   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:11:50   ------------------START TO BURN---------------------- 
+10:11:50   needn't update factory sector  
+10:11:50   WAIT FOR CHIP POWER ON
+
+10:11:52   USER STOP BURN AND TEST. 
+
+10:11:52   USER STOP BURN AND TEST. 
+
+10:30:04   ------------------START TO BURN---------------------- 
+10:30:04   needn't update factory sector  
+10:30:04   WAIT FOR CHIP POWER ON
+
+10:30:04   ------------------START TO BURN---------------------- 
+10:30:04   needn't update factory sector  
+10:30:04   WAIT FOR CHIP POWER ON
+
+10:30:07   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:30:07   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:30:07   ------------------START TO BURN---------------------- 
+10:30:07   needn't update factory sector  
+10:30:07   WAIT FOR CHIP POWER ON
+
+10:30:07   ------------------START TO BURN---------------------- 
+10:30:07   needn't update factory sector  
+10:30:07   WAIT FOR CHIP POWER ON
+
+10:30:10   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:30:10   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:30:10   ------------------START TO BURN---------------------- 
+10:30:10   needn't update factory sector  
+10:30:10   WAIT FOR CHIP POWER ON
+
+10:30:10   ------------------START TO BURN---------------------- 
+10:30:10   needn't update factory sector  
+10:30:10   WAIT FOR CHIP POWER ON
+
+10:30:12   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:30:12   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:30:27   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:30:28   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:30:34   ------------------START TO BURN---------------------- 
+10:30:34   needn't update factory sector  
+10:30:34   WAIT FOR CHIP POWER ON
+
+10:30:34   USER STOP BURN AND TEST. 
+
+10:30:35   ------------------START TO BURN---------------------- 
+10:30:35   needn't update factory sector  
+10:30:35   WAIT FOR CHIP POWER ON
+
+10:30:35   USER STOP BURN AND TEST. 
+
+10:36:00   ------------------START TO BURN---------------------- 
+10:36:00   needn't update factory sector  
+10:36:00   WAIT FOR CHIP POWER ON
+
+10:36:00   ------------------START TO BURN---------------------- 
+10:36:00   needn't update factory sector  
+10:36:00   WAIT FOR CHIP POWER ON
+
+10:36:03   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:36:03   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:36:03   ------------------START TO BURN---------------------- 
+10:36:03   needn't update factory sector  
+10:36:03   WAIT FOR CHIP POWER ON
+
+10:36:03   ------------------START TO BURN---------------------- 
+10:36:03   needn't update factory sector  
+10:36:03   WAIT FOR CHIP POWER ON
+
+10:36:06   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:36:06   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:36:06   ------------------START TO BURN---------------------- 
+10:36:06   needn't update factory sector  
+10:36:06   WAIT FOR CHIP POWER ON
+
+10:36:06   ------------------START TO BURN---------------------- 
+10:36:06   needn't update factory sector  
+10:36:06   WAIT FOR CHIP POWER ON
+
+10:36:07   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:36:08   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:36:23   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:36:24   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:36:30   ------------------START TO BURN---------------------- 
+10:36:30   needn't update factory sector  
+10:36:30   WAIT FOR CHIP POWER ON
+
+10:36:30   USER STOP BURN AND TEST. 
+
+10:36:31   ------------------START TO BURN---------------------- 
+10:36:31   needn't update factory sector  
+10:36:31   WAIT FOR CHIP POWER ON
+
+10:36:31   USER STOP BURN AND TEST. 
+
+10:36:54   ------------------START TO BURN---------------------- 
+10:36:54   needn't update factory sector  
+10:36:54   WAIT FOR CHIP POWER ON
+
+10:36:54   ------------------START TO BURN---------------------- 
+10:36:54   needn't update factory sector  
+10:36:54   WAIT FOR CHIP POWER ON
+
+10:36:57   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:36:58   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:37:12   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:37:13   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:37:19   ------------------START TO BURN---------------------- 
+10:37:19   needn't update factory sector  
+10:37:19   WAIT FOR CHIP POWER ON
+
+10:37:19   USER STOP BURN AND TEST. 
+
+10:37:20   ------------------START TO BURN---------------------- 
+10:37:20   needn't update factory sector  
+10:37:20   WAIT FOR CHIP POWER ON
+
+10:37:23   USER STOP BURN AND TEST. 
+
+10:39:47   ------------------START TO BURN---------------------- 
+10:39:47   needn't update factory sector  
+10:39:47   WAIT FOR CHIP POWER ON
+
+10:39:47   ------------------START TO BURN---------------------- 
+10:39:47   needn't update factory sector  
+10:39:47   WAIT FOR CHIP POWER ON
+
+10:39:49   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:39:50   ------------------START TO BURN---------------------- 
+10:39:50   needn't update factory sector  
+10:39:50   WAIT FOR CHIP POWER ON
+
+10:39:52   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:39:52   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:39:52   ------------------START TO BURN---------------------- 
+10:39:52   needn't update factory sector  
+10:39:52   WAIT FOR CHIP POWER ON
+
+10:39:52   ------------------START TO BURN---------------------- 
+10:39:52   needn't update factory sector  
+10:39:52   WAIT FOR CHIP POWER ON
+
+10:39:55   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:39:55   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:39:55   ------------------START TO BURN---------------------- 
+10:39:55   needn't update factory sector  
+10:39:55   WAIT FOR CHIP POWER ON
+
+10:39:55   ------------------START TO BURN---------------------- 
+10:39:55   needn't update factory sector  
+10:39:55   WAIT FOR CHIP POWER ON
+
+10:39:57   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:39:57   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:40:12   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:40:13   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:40:19   ------------------START TO BURN---------------------- 
+10:40:19   needn't update factory sector  
+10:40:19   WAIT FOR CHIP POWER ON
+
+10:40:20   ------------------START TO BURN---------------------- 
+10:40:20   needn't update factory sector  
+10:40:20   WAIT FOR CHIP POWER ON
+
+10:40:20   USER STOP BURN AND TEST. 
+
+10:40:21   USER STOP BURN AND TEST. 
+
+10:40:43   ------------------START TO BURN---------------------- 
+10:40:43   needn't update factory sector  
+10:40:43   WAIT FOR CHIP POWER ON
+
+10:40:43   ------------------START TO BURN---------------------- 
+10:40:43   needn't update factory sector  
+10:40:43   WAIT FOR CHIP POWER ON
+
+10:40:46   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:40:46   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:40:46   ------------------START TO BURN---------------------- 
+10:40:46   needn't update factory sector  
+10:40:46   WAIT FOR CHIP POWER ON
+
+10:40:46   ------------------START TO BURN---------------------- 
+10:40:46   needn't update factory sector  
+10:40:46   WAIT FOR CHIP POWER ON
+
+10:40:46   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:40:51   BURN FAIL 0xab0001. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:40:51   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:40:52   ------------------START TO BURN---------------------- 
+10:40:52   needn't update factory sector  
+10:40:52   WAIT FOR CHIP POWER ON
+
+10:40:52   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:41:07   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:41:08   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:41:14   ------------------START TO BURN---------------------- 
+10:41:14   needn't update factory sector  
+10:41:14   WAIT FOR CHIP POWER ON
+
+10:41:14   USER STOP BURN AND TEST. 
+
+10:41:14   ------------------START TO BURN---------------------- 
+10:41:14   needn't update factory sector  
+10:41:14   WAIT FOR CHIP POWER ON
+
+10:41:14   USER STOP BURN AND TEST. 
+
+10:41:54   ------------------START TO BURN---------------------- 
+10:41:54   needn't update factory sector  
+10:41:54   WAIT FOR CHIP POWER ON
+
+10:41:54   ------------------START TO BURN---------------------- 
+10:41:54   needn't update factory sector  
+10:41:54   WAIT FOR CHIP POWER ON
+
+10:41:57   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:41:57   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:41:57   ------------------START TO BURN---------------------- 
+10:41:57   needn't update factory sector  
+10:41:57   WAIT FOR CHIP POWER ON
+
+10:41:57   ------------------START TO BURN---------------------- 
+10:41:57   needn't update factory sector  
+10:41:57   WAIT FOR CHIP POWER ON
+
+10:42:00   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:42:00   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:42:00   ------------------START TO BURN---------------------- 
+10:42:00   needn't update factory sector  
+10:42:00   WAIT FOR CHIP POWER ON
+
+10:42:00   ------------------START TO BURN---------------------- 
+10:42:00   needn't update factory sector  
+10:42:00   WAIT FOR CHIP POWER ON
+
+10:42:02   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:42:02   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:42:03   ------------------START TO BURN---------------------- 
+10:42:03   needn't update factory sector  
+10:42:03   WAIT FOR CHIP POWER ON
+
+10:42:03   ------------------START TO BURN---------------------- 
+10:42:03   needn't update factory sector  
+10:42:03   WAIT FOR CHIP POWER ON
+
+10:42:05   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:42:05   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:42:05   ------------------START TO BURN---------------------- 
+10:42:05   needn't update factory sector  
+10:42:05   WAIT FOR CHIP POWER ON
+
+10:42:05   ------------------START TO BURN---------------------- 
+10:42:05   needn't update factory sector  
+10:42:05   WAIT FOR CHIP POWER ON
+
+10:42:08   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:42:08   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:42:08   ------------------START TO BURN---------------------- 
+10:42:08   needn't update factory sector  
+10:42:08   WAIT FOR CHIP POWER ON
+
+10:42:08   ------------------START TO BURN---------------------- 
+10:42:08   needn't update factory sector  
+10:42:08   WAIT FOR CHIP POWER ON
+
+10:42:10   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:42:11   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:42:11   ------------------START TO BURN---------------------- 
+10:42:11   needn't update factory sector  
+10:42:11   WAIT FOR CHIP POWER ON
+
+10:42:11   ------------------START TO BURN---------------------- 
+10:42:11   needn't update factory sector  
+10:42:11   WAIT FOR CHIP POWER ON
+
+10:42:13   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:42:13   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:42:13   ------------------START TO BURN---------------------- 
+10:42:13   needn't update factory sector  
+10:42:13   WAIT FOR CHIP POWER ON
+
+10:42:13   ------------------START TO BURN---------------------- 
+10:42:13   needn't update factory sector  
+10:42:13   WAIT FOR CHIP POWER ON
+
+10:42:16   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:42:16   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:42:16   ------------------START TO BURN---------------------- 
+10:42:16   needn't update factory sector  
+10:42:16   WAIT FOR CHIP POWER ON
+
+10:42:16   ------------------START TO BURN---------------------- 
+10:42:16   needn't update factory sector  
+10:42:16   WAIT FOR CHIP POWER ON
+
+10:42:18   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:42:19   ------------------START TO BURN---------------------- 
+10:42:19   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:42:19   needn't update factory sector  
+10:42:19   WAIT FOR CHIP POWER ON
+
+10:42:19   ------------------START TO BURN---------------------- 
+10:42:19   needn't update factory sector  
+10:42:19   WAIT FOR CHIP POWER ON
+
+10:42:21   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:42:22   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:42:37   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:42:38   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:42:44   ------------------START TO BURN---------------------- 
+10:42:44   needn't update factory sector  
+10:42:44   WAIT FOR CHIP POWER ON
+
+10:42:44   USER STOP BURN AND TEST. 
+
+10:42:44   ------------------START TO BURN---------------------- 
+10:42:44   needn't update factory sector  
+10:42:44   WAIT FOR CHIP POWER ON
+
+10:42:45   USER STOP BURN AND TEST. 
+
+10:46:32   ------------------START TO BURN---------------------- 
+10:46:32   needn't update factory sector  
+10:46:32   WAIT FOR CHIP POWER ON
+
+10:46:32   ------------------START TO BURN---------------------- 
+10:46:32   needn't update factory sector  
+10:46:32   WAIT FOR CHIP POWER ON
+
+10:46:35   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:46:35   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:46:35   ------------------START TO BURN---------------------- 
+10:46:35   needn't update factory sector  
+10:46:35   WAIT FOR CHIP POWER ON
+
+10:46:35   ------------------START TO BURN---------------------- 
+10:46:35   needn't update factory sector  
+10:46:35   WAIT FOR CHIP POWER ON
+
+10:46:38   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:46:38   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:46:38   ------------------START TO BURN---------------------- 
+10:46:38   needn't update factory sector  
+10:46:38   WAIT FOR CHIP POWER ON
+
+10:46:38   ------------------START TO BURN---------------------- 
+10:46:38   needn't update factory sector  
+10:46:38   WAIT FOR CHIP POWER ON
+
+10:46:40   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:46:41   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:46:55   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:46:56   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:47:02   ------------------START TO BURN---------------------- 
+10:47:02   needn't update factory sector  
+10:47:02   WAIT FOR CHIP POWER ON
+
+10:47:02   USER STOP BURN AND TEST. 
+
+10:47:03   ------------------START TO BURN---------------------- 
+10:47:03   needn't update factory sector  
+10:47:03   WAIT FOR CHIP POWER ON
+
+10:47:03   USER STOP BURN AND TEST. 
+
+10:47:18   ------------------START TO BURN---------------------- 
+10:47:18   needn't update factory sector  
+10:47:18   WAIT FOR CHIP POWER ON
+
+10:47:18   ------------------START TO BURN---------------------- 
+10:47:18   needn't update factory sector  
+10:47:18   WAIT FOR CHIP POWER ON
+
+10:47:20   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:47:21   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:47:21   ------------------START TO BURN---------------------- 
+10:47:21   needn't update factory sector  
+10:47:21   WAIT FOR CHIP POWER ON
+
+10:47:21   ------------------START TO BURN---------------------- 
+10:47:21   needn't update factory sector  
+10:47:21   WAIT FOR CHIP POWER ON
+
+10:47:23   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:47:23   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+10:47:23   ------------------START TO BURN---------------------- 
+10:47:23   needn't update factory sector  
+10:47:23   WAIT FOR CHIP POWER ON
+
+10:47:24   ------------------START TO BURN---------------------- 
+10:47:24   needn't update factory sector  
+10:47:24   WAIT FOR CHIP POWER ON
+
+10:47:26   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:47:27   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:47:42   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:47:43   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+10:47:48   ------------------START TO BURN---------------------- 
+10:47:48   needn't update factory sector  
+10:47:48   WAIT FOR CHIP POWER ON
+
+10:47:48   USER STOP BURN AND TEST. 
+
+10:47:49   ------------------START TO BURN---------------------- 
+10:47:49   needn't update factory sector  
+10:47:49   WAIT FOR CHIP POWER ON
+
+10:47:49   USER STOP BURN AND TEST. 
+
+11:20:26   ------------------START TO BURN---------------------- 
+11:20:26   needn't update factory sector  
+11:20:26   WAIT FOR CHIP POWER ON
+
+11:20:26   ------------------START TO BURN---------------------- 
+11:20:26   needn't update factory sector  
+11:20:26   WAIT FOR CHIP POWER ON
+
+11:20:29   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:20:29   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:20:29   ------------------START TO BURN---------------------- 
+11:20:29   needn't update factory sector  
+11:20:29   WAIT FOR CHIP POWER ON
+
+11:20:29   ------------------START TO BURN---------------------- 
+11:20:29   needn't update factory sector  
+11:20:29   WAIT FOR CHIP POWER ON
+
+11:20:31   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:20:32   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:20:32   ------------------START TO BURN---------------------- 
+11:20:32   needn't update factory sector  
+11:20:32   WAIT FOR CHIP POWER ON
+
+11:20:32   ------------------START TO BURN---------------------- 
+11:20:32   needn't update factory sector  
+11:20:32   WAIT FOR CHIP POWER ON
+
+11:20:34   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:20:34   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:20:34   ------------------START TO BURN---------------------- 
+11:20:34   needn't update factory sector  
+11:20:34   WAIT FOR CHIP POWER ON
+
+11:20:34   ------------------START TO BURN---------------------- 
+11:20:34   needn't update factory sector  
+11:20:34   WAIT FOR CHIP POWER ON
+
+11:20:35   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+11:20:36   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+11:20:50   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+11:20:52   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+11:20:57   ------------------START TO BURN---------------------- 
+11:20:57   needn't update factory sector  
+11:20:57   WAIT FOR CHIP POWER ON
+
+11:20:57   USER STOP BURN AND TEST. 
+
+11:20:59   ------------------START TO BURN---------------------- 
+11:20:59   needn't update factory sector  
+11:20:59   WAIT FOR CHIP POWER ON
+
+11:20:59   USER STOP BURN AND TEST. 
+
+11:22:46   ------------------START TO BURN---------------------- 
+11:22:46   needn't update factory sector  
+11:22:46   WAIT FOR CHIP POWER ON
+
+11:22:46   ------------------START TO BURN---------------------- 
+11:22:46   needn't update factory sector  
+11:22:46   WAIT FOR CHIP POWER ON
+
+11:22:48   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:22:48   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:22:48   ------------------START TO BURN---------------------- 
+11:22:49   ------------------START TO BURN---------------------- 
+11:22:49   needn't update factory sector  
+11:22:49   needn't update factory sector  
+11:22:49   WAIT FOR CHIP POWER ON
+
+11:22:49   WAIT FOR CHIP POWER ON
+
+11:22:51   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:22:51   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:22:51   ------------------START TO BURN---------------------- 
+11:22:51   ------------------START TO BURN---------------------- 
+11:22:51   needn't update factory sector  
+11:22:51   needn't update factory sector  
+11:22:51   WAIT FOR CHIP POWER ON
+
+11:22:51   WAIT FOR CHIP POWER ON
+
+11:22:54   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:22:54   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:22:54   ------------------START TO BURN---------------------- 
+11:22:54   needn't update factory sector  
+11:22:54   WAIT FOR CHIP POWER ON
+
+11:22:54   ------------------START TO BURN---------------------- 
+11:22:54   needn't update factory sector  
+11:22:54   WAIT FOR CHIP POWER ON
+
+11:22:56   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:22:56   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:22:57   ------------------START TO BURN---------------------- 
+11:22:57   needn't update factory sector  
+11:22:57   WAIT FOR CHIP POWER ON
+
+11:22:57   ------------------START TO BURN---------------------- 
+11:22:57   needn't update factory sector  
+11:22:57   WAIT FOR CHIP POWER ON
+
+11:22:59   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:22:59   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:22:59   ------------------START TO BURN---------------------- 
+11:22:59   needn't update factory sector  
+11:22:59   WAIT FOR CHIP POWER ON
+
+11:22:59   ------------------START TO BURN---------------------- 
+11:22:59   needn't update factory sector  
+11:22:59   WAIT FOR CHIP POWER ON
+
+11:23:02   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:23:02   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:23:02   ------------------START TO BURN---------------------- 
+11:23:02   needn't update factory sector  
+11:23:02   WAIT FOR CHIP POWER ON
+
+11:23:02   ------------------START TO BURN---------------------- 
+11:23:02   needn't update factory sector  
+11:23:02   WAIT FOR CHIP POWER ON
+
+11:23:04   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:23:05   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:23:05   ------------------START TO BURN---------------------- 
+11:23:05   needn't update factory sector  
+11:23:05   WAIT FOR CHIP POWER ON
+
+11:23:05   ------------------START TO BURN---------------------- 
+11:23:05   needn't update factory sector  
+11:23:05   WAIT FOR CHIP POWER ON
+
+11:23:07   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:23:07   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:23:07   ------------------START TO BURN---------------------- 
+11:23:07   needn't update factory sector  
+11:23:07   WAIT FOR CHIP POWER ON
+
+11:23:08   ------------------START TO BURN---------------------- 
+11:23:08   needn't update factory sector  
+11:23:08   WAIT FOR CHIP POWER ON
+
+11:23:10   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:23:10   ------------------START TO BURN---------------------- 
+11:23:10   needn't update factory sector  
+11:23:10   WAIT FOR CHIP POWER ON
+
+11:23:10   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:23:10   ------------------START TO BURN---------------------- 
+11:23:10   needn't update factory sector  
+11:23:10   WAIT FOR CHIP POWER ON
+
+11:23:12   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:23:13   ------------------START TO BURN---------------------- 
+11:23:13   needn't update factory sector  
+11:23:13   WAIT FOR CHIP POWER ON
+
+11:23:13   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:23:13   ------------------START TO BURN---------------------- 
+11:23:13   needn't update factory sector  
+11:23:13   WAIT FOR CHIP POWER ON
+
+11:23:15   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:23:15   ------------------START TO BURN---------------------- 
+11:23:15   needn't update factory sector  
+11:23:15   WAIT FOR CHIP POWER ON
+
+11:23:16   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:23:16   ------------------START TO BURN---------------------- 
+11:23:16   needn't update factory sector  
+11:23:16   WAIT FOR CHIP POWER ON
+
+11:23:18   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:23:18   ------------------START TO BURN---------------------- 
+11:23:18   needn't update factory sector  
+11:23:18   WAIT FOR CHIP POWER ON
+
+11:23:18   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+11:23:18   ------------------START TO BURN---------------------- 
+11:23:18   needn't update factory sector  
+11:23:18   WAIT FOR CHIP POWER ON
+
+11:23:20   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+11:23:21   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+11:23:36   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+11:23:36   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+11:23:42   ------------------START TO BURN---------------------- 
+11:23:42   needn't update factory sector  
+11:23:42   WAIT FOR CHIP POWER ON
+
+11:23:43   USER STOP BURN AND TEST. 
+
+11:23:43   ------------------START TO BURN---------------------- 
+11:23:43   needn't update factory sector  
+11:23:43   WAIT FOR CHIP POWER ON
+
+11:23:43   USER STOP BURN AND TEST. 
+
+13:22:00   ------------------START TO BURN---------------------- 
+13:22:00   needn't update factory sector  
+13:22:00   WAIT FOR CHIP POWER ON
+
+13:22:00   ------------------START TO BURN---------------------- 
+13:22:00   needn't update factory sector  
+13:22:00   WAIT FOR CHIP POWER ON
+
+13:22:01   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+13:22:05   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:22:05   ------------------START TO BURN---------------------- 
+13:22:05   needn't update factory sector  
+13:22:05   WAIT FOR CHIP POWER ON
+
+13:22:08   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:22:08   ------------------START TO BURN---------------------- 
+13:22:08   needn't update factory sector  
+13:22:08   WAIT FOR CHIP POWER ON
+
+13:22:10   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:22:11   ------------------START TO BURN---------------------- 
+13:22:11   needn't update factory sector  
+13:22:11   WAIT FOR CHIP POWER ON
+
+13:22:13   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:22:13   ------------------START TO BURN---------------------- 
+13:22:13   needn't update factory sector  
+13:22:13   WAIT FOR CHIP POWER ON
+
+13:22:16   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:22:16   ------------------START TO BURN---------------------- 
+13:22:16   needn't update factory sector  
+13:22:16   WAIT FOR CHIP POWER ON
+
+13:22:16   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+13:22:19   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:22:19   ------------------START TO BURN---------------------- 
+13:22:19   needn't update factory sector  
+13:22:19   WAIT FOR CHIP POWER ON
+
+13:22:21   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:22:22   ------------------START TO BURN---------------------- 
+13:22:22   needn't update factory sector  
+13:22:22   WAIT FOR CHIP POWER ON
+
+13:22:22   ------------------START TO BURN---------------------- 
+13:22:22   needn't update factory sector  
+13:22:22   WAIT FOR CHIP POWER ON
+
+13:22:22   USER STOP BURN AND TEST. 
+
+13:22:24   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:22:24   ------------------START TO BURN---------------------- 
+13:22:24   needn't update factory sector  
+13:22:24   WAIT FOR CHIP POWER ON
+
+13:22:27   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:22:27   ------------------START TO BURN---------------------- 
+13:22:27   needn't update factory sector  
+13:22:27   WAIT FOR CHIP POWER ON
+
+13:22:29   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+13:22:45   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+13:22:51   ------------------START TO BURN---------------------- 
+13:22:51   needn't update factory sector  
+13:22:51   WAIT FOR CHIP POWER ON
+
+13:22:52   USER STOP BURN AND TEST. 
+
+13:23:43   ------------------START TO BURN---------------------- 
+13:23:43   needn't update factory sector  
+13:23:43   WAIT FOR CHIP POWER ON
+
+13:23:43   ------------------START TO BURN---------------------- 
+13:23:43   needn't update factory sector  
+13:23:43   WAIT FOR CHIP POWER ON
+
+13:23:46   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:23:46   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:23:46   ------------------START TO BURN---------------------- 
+13:23:46   needn't update factory sector  
+13:23:46   WAIT FOR CHIP POWER ON
+
+13:23:46   ------------------START TO BURN---------------------- 
+13:23:46   needn't update factory sector  
+13:23:46   WAIT FOR CHIP POWER ON
+
+13:23:48   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:23:48   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:23:49   ------------------START TO BURN---------------------- 
+13:23:49   needn't update factory sector  
+13:23:49   WAIT FOR CHIP POWER ON
+
+13:23:49   ------------------START TO BURN---------------------- 
+13:23:49   needn't update factory sector  
+13:23:49   WAIT FOR CHIP POWER ON
+
+13:23:51   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:23:51   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:23:51   ------------------START TO BURN---------------------- 
+13:23:51   ------------------START TO BURN---------------------- 
+13:23:51   needn't update factory sector  
+13:23:51   needn't update factory sector  
+13:23:51   WAIT FOR CHIP POWER ON
+
+13:23:51   WAIT FOR CHIP POWER ON
+
+13:23:53   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+13:23:54   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+13:24:08   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+13:24:09   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+13:24:15   ------------------START TO BURN---------------------- 
+13:24:15   needn't update factory sector  
+13:24:15   WAIT FOR CHIP POWER ON
+
+13:24:15   USER STOP BURN AND TEST. 
+
+13:24:16   ------------------START TO BURN---------------------- 
+13:24:16   needn't update factory sector  
+13:24:16   WAIT FOR CHIP POWER ON
+
+13:24:16   USER STOP BURN AND TEST. 
+
+13:24:36   ------------------START TO BURN---------------------- 
+13:24:36   needn't update factory sector  
+13:24:36   WAIT FOR CHIP POWER ON
+
+13:24:36   ------------------START TO BURN---------------------- 
+13:24:36   needn't update factory sector  
+13:24:36   WAIT FOR CHIP POWER ON
+
+13:24:38   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:24:39   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:24:39   ------------------START TO BURN---------------------- 
+13:24:39   needn't update factory sector  
+13:24:39   WAIT FOR CHIP POWER ON
+
+13:24:39   ------------------START TO BURN---------------------- 
+13:24:39   needn't update factory sector  
+13:24:39   WAIT FOR CHIP POWER ON
+
+13:24:41   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:24:41   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:24:41   ------------------START TO BURN---------------------- 
+13:24:41   needn't update factory sector  
+13:24:41   WAIT FOR CHIP POWER ON
+
+13:24:42   ------------------START TO BURN---------------------- 
+13:24:42   needn't update factory sector  
+13:24:42   WAIT FOR CHIP POWER ON
+
+13:24:43   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+13:24:44   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+13:24:59   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+13:25:00   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+13:25:06   ------------------START TO BURN---------------------- 
+13:25:06   needn't update factory sector  
+13:25:06   WAIT FOR CHIP POWER ON
+
+13:25:07   ------------------START TO BURN---------------------- 
+13:25:07   needn't update factory sector  
+13:25:07   WAIT FOR CHIP POWER ON
+
+13:25:07   USER STOP BURN AND TEST. 
+
+13:25:09   USER STOP BURN AND TEST. 
+
+13:25:43   ------------------START TO BURN---------------------- 
+13:25:43   needn't update factory sector  
+13:25:43   WAIT FOR CHIP POWER ON
+
+13:25:43   ------------------START TO BURN---------------------- 
+13:25:43   needn't update factory sector  
+13:25:43   WAIT FOR CHIP POWER ON
+
+13:25:46   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:25:46   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:25:46   ------------------START TO BURN---------------------- 
+13:25:46   needn't update factory sector  
+13:25:46   WAIT FOR CHIP POWER ON
+
+13:25:46   ------------------START TO BURN---------------------- 
+13:25:46   needn't update factory sector  
+13:25:46   WAIT FOR CHIP POWER ON
+
+13:25:48   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:25:49   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:25:49   ------------------START TO BURN---------------------- 
+13:25:49   needn't update factory sector  
+13:25:49   WAIT FOR CHIP POWER ON
+
+13:25:49   ------------------START TO BURN---------------------- 
+13:25:49   needn't update factory sector  
+13:25:49   WAIT FOR CHIP POWER ON
+
+13:25:51   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:25:51   BURN FAIL 0xdc0037. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3
+
+13:25:51   ------------------START TO BURN---------------------- 
+13:25:51   needn't update factory sector  
+13:25:51   WAIT FOR CHIP POWER ON
+
+13:25:52   ------------------START TO BURN---------------------- 
+13:25:52   needn't update factory sector  
+13:25:52   WAIT FOR CHIP POWER ON
+
+13:25:52   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+13:25:53   SYNC SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+13:26:08   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+13:26:09   BURN SUCCESS. btaddr:12:34:56:33:33:3D  bleaddr12:34:56:C2:9A:D3 sn:0000000000000013
+
+13:26:15   ------------------START TO BURN---------------------- 
+13:26:15   needn't update factory sector  
+13:26:15   WAIT FOR CHIP POWER ON
+
+13:26:15   USER STOP BURN AND TEST. 
+
+13:26:15   ------------------START TO BURN---------------------- 
+13:26:15   needn't update factory sector  
+13:26:15   WAIT FOR CHIP POWER ON
+
+13:26:16   USER STOP BURN AND TEST. 
+
